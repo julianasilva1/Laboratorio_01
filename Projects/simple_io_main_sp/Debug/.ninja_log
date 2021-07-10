@@ -1,0 +1,88 @@
+# ninja log v5
+2	40	6467209477932343	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	695b987cb54e391b
+376	508	6467209482607846	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	ac201ec899ddaa7c
+70	324	6467209480563493	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	c359b6029d9e0231
+5	368	6467209480550582	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	af5891f99b4b3865
+376	508	6467209482607846	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/List/simple_io_main_sp.map	ac201ec899ddaa7c
+2	190	6467209528471388	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	8bc7b5e91050b42c
+2	37	6467209979748991	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	695b987cb54e391b
+5	163	6467209980802815	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	af5891f99b4b3865
+63	252	6467209981695827	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	c359b6029d9e0231
+261	389	6467209983274997	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	ac201ec899ddaa7c
+261	389	6467209983274997	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/List/simple_io_main_sp.map	ac201ec899ddaa7c
+1	150	6467210005038100	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	8bc7b5e91050b42c
+0	35	6467216889812126	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	695b987cb54e391b
+4	688	6467216896088931	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	af5891f99b4b3865
+53	923	6467216898481519	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	c359b6029d9e0231
+932	1120	6467216899950507	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	8bc7b5e91050b42c
+2	38	6467216997703415	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	695b987cb54e391b
+5	190	6467216998851542	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	af5891f99b4b3865
+64	262	6467216999566597	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	c359b6029d9e0231
+269	408	6467217001376218	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	ac201ec899ddaa7c
+269	408	6467217001376218	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/List/simple_io_main_sp.map	ac201ec899ddaa7c
+1	153	6467217025531174	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	8bc7b5e91050b42c
+2	38	6467236242716812	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	695b987cb54e391b
+77	866	6467236250692132	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	c359b6029d9e0231
+1	57	6467236583943452	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	695b987cb54e391b
+4	217	6467236585214303	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	af5891f99b4b3865
+85	363	6467236586685282	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	c359b6029d9e0231
+382	526	6467236588316568	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	8bc7b5e91050b42c
+1	36	6467238243347927	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	695b987cb54e391b
+63	314	6467238245809570	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	af5891f99b4b3865
+4	346	6467238245809570	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	c359b6029d9e0231
+354	492	6467238247890977	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	ac201ec899ddaa7c
+354	492	6467238247890977	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/List/simple_io_main_sp.map	ac201ec899ddaa7c
+1	213	6467238316086270	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	8bc7b5e91050b42c
+2	122	6467243539591257	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	695b987cb54e391b
+5	872	6467243546793850	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	af5891f99b4b3865
+141	1092	6467243549151527	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	c359b6029d9e0231
+1099	1298	6467243551391057	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	ac201ec899ddaa7c
+1099	1298	6467243551391057	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/List/simple_io_main_sp.map	ac201ec899ddaa7c
+2	140	6467243670160472	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	af5891f99b4b3865
+178	350	6467243672042419	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	8bc7b5e91050b42c
+2	66	6467246912448474	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	695b987cb54e391b
+5	961	6467246921104656	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	af5891f99b4b3865
+86	1165	6467246923312009	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	c359b6029d9e0231
+1173	1325	6467246925116239	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	ac201ec899ddaa7c
+1173	1325	6467246925116239	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/List/simple_io_main_sp.map	ac201ec899ddaa7c
+2	193	6467246957248367	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	8bc7b5e91050b42c
+1	60	6467248325127902	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	695b987cb54e391b
+4	211	6467248326409665	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	af5891f99b4b3865
+80	267	6467248326988355	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	c359b6029d9e0231
+275	412	6467248328614670	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	ac201ec899ddaa7c
+275	412	6467248328614670	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/List/simple_io_main_sp.map	ac201ec899ddaa7c
+2	167	6467248362256120	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	8bc7b5e91050b42c
+2	56	6467249513938193	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	695b987cb54e391b
+5	391	6467249516956321	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	af5891f99b4b3865
+88	534	6467249516956321	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	c359b6029d9e0231
+545	757	6467249520910636	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	ac201ec899ddaa7c
+545	757	6467249520910636	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/List/simple_io_main_sp.map	ac201ec899ddaa7c
+1	170	6467249540832241	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	8bc7b5e91050b42c
+2	54	6467250733574563	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	695b987cb54e391b
+6	860	6467250741405024	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	c359b6029d9e0231
+77	978	6467250742709636	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	af5891f99b4b3865
+986	1123	6467250744359651	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	ac201ec899ddaa7c
+986	1123	6467250744359651	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/List/simple_io_main_sp.map	ac201ec899ddaa7c
+1	163	6467250772110173	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	8bc7b5e91050b42c
+1	48	6467251950803853	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	695b987cb54e391b
+74	265	6467251952645807	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	af5891f99b4b3865
+6	295	6467251952655803	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	c359b6029d9e0231
+302	440	6467251954819887	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	ac201ec899ddaa7c
+302	440	6467251954819887	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/List/simple_io_main_sp.map	ac201ec899ddaa7c
+2	2663	6467251999749343	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	8bc7b5e91050b42c
+1	45	6467252832562141	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	695b987cb54e391b
+4	179	6467252833696847	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	af5891f99b4b3865
+65	278	6467252834590902	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	c359b6029d9e0231
+285	440	6467252836090318	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	8bc7b5e91050b42c
+41	2309	6467261847114210	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	7d3aabb71b262d9a
+264	6827	6467261891803889	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	f9307135b4cb713d
+2346	6880	6467261891803889	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	8002211cfa320bc2
+6941	9721	6467261917392836	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	ecdbc284c3b1f106
+6941	9721	6467261917392836	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/List/simple_io_main_sp.map	ecdbc284c3b1f106
+2	242	6467262030733082	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	a5a265492e5072c1
+303	1698	6468892708282555	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	7d3aabb71b262d9a
+381	3816	6468892729272831	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	8002211cfa320bc2
+1703	3826	6468892729272831	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	f9307135b4cb713d
+3865	5609	6468892746073281	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	ecdbc284c3b1f106
+3865	5609	6468892746073281	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/List/simple_io_main_sp.map	ecdbc284c3b1f106
+2	75	6468892770395675	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	a5a265492e5072c1

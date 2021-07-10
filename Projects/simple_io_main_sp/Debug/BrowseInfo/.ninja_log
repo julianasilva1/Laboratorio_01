@@ -1,0 +1,77 @@
+# ninja log v5
+1	2865	6467209604581715	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	157	6461662290000000	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.xcl	107ef48dbda0f41d
+160	274	6467210010413121	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+7	121	6461662290000000	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/system_TM4C1294_TW.xcl	2d8ba3eae377a2b6
+1	142	6467210009099592	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+128	280	6461662299257247	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/system_TM4C1294_TW.pbi	b7b7aaeeab4b32f6
+1	3317	6467210108789170	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	136	6467216800300787	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+169	265	6467216801573551	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+1	2335	6467216961713200	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	129	6467217014361749	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+165	333	6467217016408463	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+1	2501	6467217098563921	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	151	6467236259547995	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+178	287	6467236260928921	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+291	2823	6467236285595294	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	115	6467236590137573	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+142	211	6467236591108207	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+215	2987	6467236617805960	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	124	6467237725703321	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+150	234	6467237726824057	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+238	3164	6467237755393047	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	141	6467238260169130	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+169	312	6467238261880240	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+316	3103	6467238289198418	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	117	6467243570443474	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+145	251	6467243571794480	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+256	2781	6467243596062546	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	127	6467243699355359	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+167	293	6467243701029020	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+297	3236	6467243729636144	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	121	6467246949986625	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+145	243	6467246951248522	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+1	2901	6467247032649900	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	123	6467248342424761	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+146	295	6467248344202007	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+1	2691	6467248437019189	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	107	6467249545165285	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+129	210	6467249546259021	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+1	2474	6467249634624701	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	91	6467250240155874	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+114	277	6467250241937927	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+281	3018	6467250268813033	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	121	6467250774165446	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+143	270	6467250775630320	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+1	2693	6467250873637062	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	117	6467251580100358	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+133	204	6467251580980187	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+208	3146	6467251609514254	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	122	6467251964034585	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+145	224	6467251965106920	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+228	2492	6467251986236795	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+1	120	6467252845450508	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	ba5540a15da2ca43
+158	254	6467252846764702	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	b8b89b7e29c5d22
+1	2545	6467252931576526	C:/Users/User/Documents/TM4C1294_Bare_IAR9-main/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	e034df390dcf5ecd
+211	538	6467261810000000	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.xcl	7705ee2d8825a4de
+88	583	6467261810000000	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/system_TM4C1294_TW.xcl	45c9eb7ef7df85f6
+4	743	6467261929188597	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	f5bd7605a153d9a9
+1	849	6467261930282349	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/system_TM4C1294_TW.pbi	7967b62b9aff5823
+854	1249	6467261934188669	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	747d7a6595cbffe1
+1254	6267	6467261982413788	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	ec997228f8ba9133
+1	401	6467262039341799	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	f5bd7605a153d9a9
+427	1558	6467262050905007	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	747d7a6595cbffe1
+1577	6731	6467262101804218	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	ec997228f8ba9133
+1	507	6467262208672336	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	f5bd7605a153d9a9
+531	1135	6467262214909000	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	747d7a6595cbffe1
+1145	11734	6467262318369879	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	ec997228f8ba9133
+1	111	6467262574623707	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	f5bd7605a153d9a9
+135	258	6467262576029872	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	747d7a6595cbffe1
+262	3722	6467262609440588	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	ec997228f8ba9133
+1	95	6468892850567756	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	f5bd7605a153d9a9
+99	305	6468892852727800	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	747d7a6595cbffe1
+310	1860	6468892867446514	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	ec997228f8ba9133
+1	58	6468893321454251	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	f5bd7605a153d9a9
+62	117	6468893322014273	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	747d7a6595cbffe1
+123	1455	6468893334574524	C:/Users/User/Documents/1 Semestre/Sistemas Embarcados/Laboratórios/Lab1/Laboratorio_01/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	ec997228f8ba9133
